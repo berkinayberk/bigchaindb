@@ -9,7 +9,7 @@ Code is Apache-2.0 and docs are CC-BY-4.0
 
 There is some specialized terminology associated with BigchainDB. To get started, you should at least know the following:
 
-### Planetmint Node
+### TEST Node
 
 A **BigchainDB node** is a machine (or logical machine) running [BigchainDB Server](https://docs.bigchaindb.com/projects/server/en/latest/introduction.html) and related software. Each node is controlled by one person or organization.
 
